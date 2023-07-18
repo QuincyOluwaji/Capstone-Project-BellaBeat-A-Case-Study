@@ -1,5 +1,5 @@
 # Google Data Analytics: Capstone Project
-## BellaBeat-A-Case-Study
+## BellaBeat-A Case Study
 This case study is an optional capstone project done in completion of the Google Data Analytics Certificate. I made use of the 6 steps of Data Analysis in this capstone project to achieve desired results.
 
 Tool Used: R
